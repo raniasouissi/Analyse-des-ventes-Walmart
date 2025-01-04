@@ -26,7 +26,7 @@ Dans cette section, nous explorons les ventes de manière plus détaillée en ap
 ### **3. Récapitulatif des Ventes**
 Un résumé global des ventes, mettant en évidence les tendances clés et les conclusions principales extraites de l'analyse des ventes. Cette section inclut des graphiques comparatifs pour mieux comprendre les performances sur différentes périodes.
 
-![Récapitulatif des ventes et Impact Économique](images/page 3.png)  
+![Récapitulatif des ventes et Impact Économique](images/page3.png)  
 *Récapitulatif des ventes montrant des comparaisons entre différentes périodes.*
 
 
