@@ -1,39 +1,39 @@
-# Analyse des Ventes – Walmart
+# Sales Analysis – Walmart
 
-Ce projet présente une analyse approfondie des ventes de Walmart en tenant compte de l'impact de la température et des prix du carburant. L'objectif est de fournir un tableau de bord interactif permettant d'explorer et de visualiser les données de manière dynamique. Ce projet inclut également le calcul des KPIs (indicateurs de performance clés) pour évaluer l'impact de ces facteurs externes sur les performances des ventes.
+This project presents an in-depth analysis of Walmart's sales, considering the impact of temperature and fuel prices. The goal is to provide an interactive dashboard for exploring and visualizing the data dynamically. This project also includes the calculation of KPIs (Key Performance Indicators) to assess the impact of these external factors on sales performance.
 
-## Technologies Utilisées
+## Technologies Used
 
-- **Power BI** : Outil principal utilisé pour la création du tableau de bord interactif et la visualisation des données.
-- **DAX** : Langage de calcul utilisé pour créer des mesures avancées et des KPIs.
-- **Excel** : Utilisé pour la préparation des données avant leur traitement dans Power BI.
-- **Power Query** : Permet la transformation et l'intégration des données dans Power BI.
+- **Power BI**: The main tool used for creating the interactive dashboard and visualizing the data.
+- **DAX**: The calculation language used to create advanced measures and KPIs.
+- **Excel**: Used for data preparation before processing it in Power BI.
+- **Power Query**: Used for transforming and integrating the data into Power BI.
 
-## Structure du Rapport
+## Report Structure
 
-### **1. Performance Globale des Ventes**
-Cette section présente un aperçu global de l'impact des variations de température et des prix du carburant sur les ventes de Walmart. Elle permet de visualiser les tendances principales et d'identifier les facteurs ayant un effet majeur sur les résultats.
+### **1. Overall Sales Performance**
+This section presents an overview of how temperature fluctuations and fuel prices impact Walmart sales. It allows for visualizing key trends and identifying the major factors affecting the results.
 
-![Performance globale des ventes](images/page1.png)  
-*Exemple de graphique illustrant l'impact global des facteurs externes sur les ventes de Walmart.*
+![Overall Sales Performance](images/page1.png)  
+*Example of a chart illustrating the overall impact of external factors on Walmart's sales.*
 
-### **2. Analyse Approfondie des Ventes**
-Dans cette section, nous explorons les ventes de manière plus détaillée en appliquant des filtres dynamiques pour identifier les tendances spécifiques en fonction des températures et des prix du carburant. Les données sont segmentées et présentées sous forme de graphiques interactifs.
+### **2. In-Depth Sales Analysis**
+In this section, we explore the sales in more detail by applying dynamic filters to identify specific trends based on temperature and fuel prices. The data is segmented and presented in interactive graphs.
 
-![Analyse approfondie des ventes](images/page2.png)  
-*Exemple d'analyse approfondie des ventes avec des filtres dynamiques appliqués.*
+![In-Depth Sales Analysis](images/page2.png)  
+*Example of an in-depth sales analysis with dynamic filters applied.*
 
-### **3. Récapitulatif des Ventes**
-Un résumé global des ventes, mettant en évidence les tendances clés et les conclusions principales extraites de l'analyse des ventes. Cette section inclut des graphiques comparatifs pour mieux comprendre les performances sur différentes périodes.
+### **3. Sales Summary**
+A global summary of the sales, highlighting key trends and major conclusions from the sales analysis. This section includes comparative charts for better understanding performance over different periods.
 
-![Récapitulatif des ventes et Impact Économique](images/page3.png)  
-*Récapitulatif des ventes montrant des comparaisons entre différentes périodes.*
-
+![Sales Summary and Economic Impact](images/page3.png)  
+*Sales summary showing comparisons between different periods.*
 
 ## Conclusion
 
-Ce projet met en lumière l'importance de prendre en compte les facteurs externes, tels que la température et les prix du carburant, pour évaluer la performance des ventes. Grâce à Power BI et DAX, nous avons pu créer un tableau de bord interactif puissant qui permet d'explorer les données en profondeur et d'en extraire des informations pertinentes pour la prise de décisions stratégiques.
+This project highlights the importance of considering external factors such as temperature and fuel prices when assessing sales performance. Thanks to Power BI and DAX, we were able to create a powerful interactive dashboard that allows for in-depth data exploration and extraction of relevant insights for strategic decision-making.
 
 ---
 
-Pour plus de détails, consultez le rapport complet dans le fichier **walmart sales bi.pbix**.
+For more details, please consult the full report in the **walmart_sales_bi.pbix** file.
+
